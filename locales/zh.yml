@@ -9,7 +9,6 @@ home:
   home: '主页'
   uiLib: 'UI 库'
   support: '支持 IT 工具开发'
-  buyMeACoffee: '赞助'
   follow:
     title: '关注我们'
     p1: '给我们 Star'
@@ -18,10 +17,6 @@ home:
     twitterXAccount: 'IT-Tools X 账号'
     thankYou: '感谢您的支持！'
   nav:
-    github: 'GitHub 仓库'
-    githubRepository: 'GitHub 仓库'
-    twitterX: 'Twitter 账号'
-    twitterXAccount: 'IT-Tools X 账号'
     about: '关于 IT-Tools'
     aboutLabel: '关于'
     darkMode: '深色模式'
