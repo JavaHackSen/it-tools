@@ -56,6 +56,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       strategies: 'generateSW',
+      filename: 'it-tools-sw.js',
       manifest: {
         name: 'IT Tools',
         description: 'Aggregated set of useful tools for developers.',
